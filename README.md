@@ -115,30 +115,8 @@ Open your web browser and navigate to:
 
 
 
-http://localhost:8080/Product_Management_System/
+http://localhost:8080/HotelWebApp/
 
 
 
 
-## 🖼️ Output Screenshots
-
-### 🏠 Home Page
-![Home Page](screenshots/home.jpg)
-
-### ➕ Add Product
-![Add Product](screenshots/add.jpg)
-
-### 📝 Update Product
-![Update Product](screenshots/update.jpg)
-
-### ❌ Delete Product
-![Delete Product](screenshots/delete.jpg)
-
-### 📋 Display Products
-![Display Products](screenshots/display.jpg)
-
-### 📊 Generate Reports
-![Generate Reports](screenshots/report1.jpg)
-![Generate Reports](screenshots/report2.jpg)
-![Generate Reports](screenshots/report3.jpg)
-![Generate Reports](screenshots/report4.jpg)
